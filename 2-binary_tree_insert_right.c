@@ -3,6 +3,7 @@
 
 /**
  * binary_tree_insert_right - Inserts a node to the right of a binary
+ * @parent: parent
  * @value: the data to add
  * Return: returns pointer to new node or NULL on failure
  */
